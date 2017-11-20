@@ -8,18 +8,17 @@
     "node-sass-chokidar": "^0.0.3",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "uuid": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "dev":
-      "webpack-dev-server --config webpack.config.js --content-base src/ --hot --inline",
+    "dev": "webpack-dev-server --config webpack.config.js --content-base src/ --hot --inline",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "build-css": "node-sass-chokidar src/ -o src/",
-    "watch-css":
-      "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive"
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive"
   },
   "devDependencies": {
     "@types/node": "^8.0.53",
