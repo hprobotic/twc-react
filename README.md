@@ -2,6 +2,8 @@
 
 ### CoderSchool React Class Prework: Build the MiniTweeter App
 
+![Demo](https://i.imgur.com/nQFJL4v.png)
+
 ## Demo
 
 - [Online Demo](https://serene-varahamihira-45fe9b.netlify.com)
