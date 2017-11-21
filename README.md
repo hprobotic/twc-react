@@ -5,8 +5,9 @@
 ## Demo
 
 - [Online Demo](https://serene-varahamihira-45fe9b.netlify.com)
-- Walkthrough:
-![](http://i.imgur.com/umWsrwe.gif)
+- Walkthrough: https://i.imgur.com/umWsrwe.gif
+
+![](https://i.imgur.com/umWsrwe.gif)
 
 
 ## Requirement
