@@ -421,7 +421,7 @@ textarea:-ms-input-placeholder {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 0 24px;
+  padding: 0;
 }
 .post-bg {
   background-color: red;
@@ -472,4 +472,16 @@ textarea:-ms-input-placeholder {
 .Polaris-ChoiceList ul li {
   display: inline-block;
   margin-right: 5px;
+}
+.post-action {
+  color: gray !important;
+  margin-right: 5px;
+}
+
+.post-action.active {
+  background-color: #5c6ac4 !important;
+}
+
+.post-action.active a {
+  color: white !important;
 }
